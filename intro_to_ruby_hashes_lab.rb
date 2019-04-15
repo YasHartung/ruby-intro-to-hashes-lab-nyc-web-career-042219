@@ -10,7 +10,9 @@ end
 
 def monopoly
 	monopoly = {
-    :railroads => {}
+    :railroads => {},
+    :names => {},
+    :rent_in_dollars => {}
   }
 
 end
